@@ -17,7 +17,7 @@ Step 3: Click “Browse” button to select file to generate synthesized RTL. Af
 
 Step 4: Click “Open” button to view generated Verilog module 
 
-
-
+# Collaborators
+ Dipayan Saha and Md Saad Ull Haque
 
 
